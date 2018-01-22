@@ -1,18 +1,18 @@
 {
-	"manifest_version": 2,
-	"name": "TrueSum",
-	"version": "1.0",
+    "manifest_version": 2,
+    "name": "TrueSum",
+    "version": "1.0",
 
-	"description": "TrueSum (True Summary) summarizes your news articles into 5 key sentences and determines whether the article is positively or negatively biased.",
-	"icons": {
-		"16": "icon16.png",
-		"64": "icon64.png",
-		"128": "icon128.png"
-	},
+    "description": "TrueSum (True Summary) summarizes your news articles into 5 key sentences and determines whether the article is positively or negatively biased.",
+    "icons": {
+        "16": "icon16.png",
+        "64": "icon64.png",
+        "128": "icon128.png"
+    },
 
-	"browser_action": {
-		"default_title": "Summarize this?",
-		"default_icon": "icon128.png",
-		"default_popup": "popup.html"
-	}
+    "browser_action": {
+        "default_title": "Summarize this?",
+        "default_icon": "icon128.png",
+        "default_popup": "popup.html"
+    }
 }
